@@ -14,12 +14,12 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" height="50" alt="asm logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=zig" height="50" alt="zig logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=nim" height="50" alt="nim logo"  />
 </div>
