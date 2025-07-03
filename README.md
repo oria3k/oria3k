@@ -6,3 +6,20 @@
 
 **An amateur low-level developer with a passion for BSD systems (especially OpenBSD).**
 
+### Some facts about me:
+* A layperson of Buddhism in the Zen Rinzai tradition ☸️🧘
+* I love the history of ancient Egypt, ancient Greece, and Hinduism 📜🏺🙏
+
+### My Stack:
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="6" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=assembly" height="50" alt="asm logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=zig" height="50" alt="zig logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nim" height="50" alt="nim logo"  />
+</div>
