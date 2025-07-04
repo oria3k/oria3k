@@ -7,6 +7,7 @@
 **An amateur low-level developer with a passion for BSD systems (especially OpenBSD).**
 
 ### Some facts about me:
+
 * A layperson of Buddhism in the Zen Rinzai tradition ☸️🧘
 * I love the history of ancient Egypt, ancient Greece, and Hinduism 📜🏺🙏
 
